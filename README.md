@@ -21,7 +21,7 @@ AstroSignature is a Python script for [Siril](https://siril.org) (v1.4.2+) that 
 
 ## Screenshots
 
-<image-card alt="Screenshot" src="/Menu_Location.jpg" ></image-card>*Dialog and example output screenshots coming soon.*
+![AstroSignature Menu Location](Menu_Location.jpg)
 
 ---
 
