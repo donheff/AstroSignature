@@ -52,7 +52,7 @@ AstroSignature is a Python script for [Siril](https://siril.org) (v1.4.2+) that 
 3. In Siril: **Preferences > Scripts > click the refresh button > Apply**
 4. The script appears under **Scripts > Python Scripts**
 
-### Option 2 — Windows Auto-Installer (Batch File)
+### Option 2 — Windows Auto-Installer (Batch File — Windows Only)
 
 A Windows batch file `AstroSignature_Install.bat` is included for one-click installation:
 
